@@ -43,6 +43,6 @@ if( data.max() >= data.min() ):
 else:
     data = data / abs(data.min())
 
-
-
+# 45264 / 1024 == 45
+frames = numpy.ndarray(( , ))
 #4.3
